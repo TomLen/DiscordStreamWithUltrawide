@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordStreamWithUltrawide", "DiscordStreamWithUltrawide\DiscordStreamWithUltrawide.csproj", "{14A7B1E5-DA58-4EF7-8D45-87C2A8F73012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A7B1E5-DA58-4EF7-8D45-87C2A8F73012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A7B1E5-DA58-4EF7-8D45-87C2A8F73012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A7B1E5-DA58-4EF7-8D45-87C2A8F73012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A7B1E5-DA58-4EF7-8D45-87C2A8F73012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81067EE9-15EF-4262-AD57-1DC61C410CC9}
+	EndGlobalSection
+EndGlobal
